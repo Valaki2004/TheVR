@@ -13,3 +13,26 @@
     padding-left: 300px;
     padding-top: 150px;
 }*/
+.janikep{
+    height: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+.szovegketto{
+    padding-bottom: 50px;
+}
+.pistikepe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 600px;
+}
+.szoveg{
+    margin-bottom: 100px;
+}
+.gazdasagcim{
+    padding-bottom: 50px;
+}
