@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.cimnev{
+    position: relative; top:70px;
+}
+.eltol{
+    padding-bottom: 150px;
+}
+/*.pisti{
+    padding-left: 300px;
+    padding-top: 150px;
+}*/
