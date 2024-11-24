@@ -1,49 +1,38 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-
 .cimnev{
     position: relative; top:70px;
 }
 .eltol{
-    padding-bottom: 150px;
-}
-/*.pisti{
-    padding-left: 300px;
-    padding-top: 150px;
-}*/
-.janikep{
-    height: 800px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 700px;
+    padding-bottom: 100px;
 }
 .szovegketto{
-    padding-bottom: 50px;
-}
-.pistikepe{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 700px;
-    height: 600px;
+    padding-bottom: auto;
 }
 .szoveg{
-    margin-bottom: 100px;
+    margin-bottom: auto;
 }
 .gazdasagcim{
     padding-bottom: 50px;
 }
 .video {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
     position: fixed;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
     z-index: -1;
+  }
+  .ketto{
+    width: 1080px;
+    margin-top: 50px;
+  }
+  .egyik{
+    width: 1000px;
+  }
+  .jani{
+    margin-bottom: 30px;
+  }
+  .pisti{
+    margin-bottom: 30px;
   }
